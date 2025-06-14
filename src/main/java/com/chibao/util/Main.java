@@ -12,17 +12,8 @@ public class Main {
         verifyFactorialGivenRightArg2RunsWell();
         verifyFactorialGivenRightArgsRunsWell();
 
-        Cat cat = new Cat();
-        Dog dog = new Dog();
 
-        makeSound(cat);
-        makeSound(dog);
     }
-
-    public static void makeSound(Animal animal){
-        animal.grrr();
-    }
-
     // TEST CASE #2: Verify the getFactorial() with n = 0;
     public static void verifyFactorialGivenRightArg0RunsWell() {
         int n = 0;
