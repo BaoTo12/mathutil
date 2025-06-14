@@ -1,4 +1,4 @@
-name: Math Utility Project (CI included) | © 2025 by giáo.làng
+name: Math Utility Project (CI included) | © 2025 by baoto-san
 
 on:
   push:
@@ -31,5 +31,5 @@ jobs:
     - name: Make hyperlink to jar-war file    # Tạo hyperlink để download build 
       uses: actions/upload-artifact@v4
       with:
-          name: cham_em_ngoc_trinh_lay_jar    # Hyperlink để download build, app
+          name: get_jar    # Hyperlink để download build, app
           path: staging
