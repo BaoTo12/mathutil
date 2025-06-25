@@ -1,4 +1,4 @@
-Has been changed
+[![Math Utility Project (CI included) | © 2025 by baoto-san](https://github.com/BaoTo12/mathutil/actions/workflows/maven.yml/badge.svg)](https://github.com/BaoTo12/mathutil/actions/workflows/maven.yml)
 
 # Welcome to Math Utility Repository
 
